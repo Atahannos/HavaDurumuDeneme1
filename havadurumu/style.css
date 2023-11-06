@@ -1,0 +1,55 @@
+*{
+    font-family: 'Roboto Mono', monospace;
+}
+body {
+    
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 300px;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.search-box {
+    margin-top: 20px;
+}
+
+input {
+    width: 60%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Hava-Durumu {
+    margin-top: 20px;
+}
+
+p {
+    font-size: 18px;
+}
+.resim{
+    width: 150px;
+    height: 150px;
+}
